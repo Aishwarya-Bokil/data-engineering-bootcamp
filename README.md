@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Zach's Data Engineering Bootcamp — Solutions
 
 This repository contains my solutions and notes for Zach Wilson's Data Engineering Bootcamp.  
@@ -40,3 +41,7 @@ scripts/
 
 ## Disclaimer
 These are my personal solutions for learning purposes.
+=======
+# data-engineering-bootcamp
+This contains descriptions and solutions for Zach's free datacamp
+>>>>>>> acabb430f7fe595b70989b4db1f68c3e9046b57a
