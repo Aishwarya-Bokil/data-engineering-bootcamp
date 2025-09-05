@@ -1,0 +1,3 @@
+# Add shared Python deps here; module-specific deps go in module-level requirements.txt
+pandas
+pyarrow
