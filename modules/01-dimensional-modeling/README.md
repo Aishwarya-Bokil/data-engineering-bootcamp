@@ -11,6 +11,7 @@ This table contains the following columns:
 - rating
 - filmid
 
+The homework contains the following tasks:
 1. First Task: Create a new 'actors' table containing the following:
 - 'films', which is an array of struct.
 - 'quality_class' to demonstrate the actor's performance quality.
